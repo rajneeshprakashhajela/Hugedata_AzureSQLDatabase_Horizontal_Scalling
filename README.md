@@ -80,5 +80,20 @@ if not working - may be firewall issue (Open Firewall..)
 ![image](https://user-images.githubusercontent.com/43515480/234497750-5d377fe6-0a05-4880-bc61-901b99d7f80a.png)
 ![image](https://user-images.githubusercontent.com/43515480/234497919-ce92976e-95ba-41a7-bc7f-29a36b76f8de.png)
 
-  
+  ==============
+  Now other way
+  ![image](https://user-images.githubusercontent.com/43515480/234498705-e43269f4-1a25-42e8-bb25-9c160aef3eff.png)
+  ![image](https://user-images.githubusercontent.com/43515480/234498786-72cac11b-8574-4076-b713-6f27946bc121.png)
 
+![image](https://user-images.githubusercontent.com/43515480/234499125-3d181821-f938-4af1-9d98-2db6f350e828.png)
+![image](https://user-images.githubusercontent.com/43515480/234499247-b15d4123-0b66-4639-b172-b2d35f71b0fd.png)
+![image](https://user-images.githubusercontent.com/43515480/234499440-40adf69f-540d-44ad-b296-cce96a705a37.png)
+
+servername
+  ![image](https://user-images.githubusercontent.com/43515480/234499603-b7830ac9-6379-43ed-a2d9-fe76827fcdea.png)
+
+![image](https://user-images.githubusercontent.com/43515480/234499695-c809a21d-61c3-46e5-b8fa-703e7ec973bf.png)
+![image](https://user-images.githubusercontent.com/43515480/234499910-d248c206-56c6-47a4-8bec-a1ac1cc8b1dc.png)
+
+![image](https://user-images.githubusercontent.com/43515480/234499944-94743596-71a7-4fae-a772-0813f26a52cb.png)
+![image](https://user-images.githubusercontent.com/43515480/234500038-77bc4a9c-db3e-4f8c-9764-0792eae4a3aa.png)
