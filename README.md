@@ -74,3 +74,11 @@ COpy server
 ![image](https://user-images.githubusercontent.com/43515480/234485256-4c35b1df-0300-48f6-8128-5e9a62648980.png)
 if not working - may be firewall issue (Open Firewall..) 
 
+![image](https://user-images.githubusercontent.com/43515480/234497174-f260fa7c-5a51-47ab-a1e1-61cca29f40a0.png)
+  ![image](https://user-images.githubusercontent.com/43515480/234497696-ec3c52a0-5f67-4a8d-9362-a01119ccbf98.png)
+![image](https://user-images.githubusercontent.com/43515480/234497712-1dc6d614-6595-4779-9a31-1eb03b12255c.png)
+![image](https://user-images.githubusercontent.com/43515480/234497750-5d377fe6-0a05-4880-bc61-901b99d7f80a.png)
+![image](https://user-images.githubusercontent.com/43515480/234497919-ce92976e-95ba-41a7-bc7f-29a36b76f8de.png)
+
+  
+
