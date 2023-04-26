@@ -31,3 +31,46 @@ If want to create database at run time in elastic pool
   
   ![image](https://user-images.githubusercontent.com/43515480/232051542-92cbed9a-b3b5-44c4-80ca-791c8d2b2888.png)
 ![image](https://user-images.githubusercontent.com/43515480/232051599-11332f10-ea72-4f1d-8b10-9845cfd74241.png)
+
+
+Migration to Azure cloud
+![image](https://user-images.githubusercontent.com/43515480/234481013-06b7308f-26e6-4dae-a2b9-fd79b59d910f.png)
+![image](https://user-images.githubusercontent.com/43515480/234481767-5ec5ee80-6381-4a5e-a01c-9f113341e96b.png)
+
+<h2>Data Migration assistant </h2>:
+only less amount of data we can .. Huge amount we can get issue...
+
+<h2>SQL Server Migration assistant </h2>: (Any other database oracle,sql server)
+Souce - oracle, mysql, sqlserver..
+Export and convert in SQL query and dump in SQLServer database
+
+<h2>Azure Database Migration assistant </h2>:
+Huge amount of data we can...
+
+<h2>Azure Data Factory</h2>
+continious data exporting next day...export activity automate 
+
+![image](https://user-images.githubusercontent.com/43515480/234483118-6bdb3430-1db6-4b66-b095-689c2080bda0.png)
+![image](https://user-images.githubusercontent.com/43515480/234483200-ffb91b7b-a941-4305-9f12-f7b4957080d7.png)
+![image](https://user-images.githubusercontent.com/43515480/234483311-6b9d4653-edea-4b4a-bfcf-3d6dfe2bd7cb.png)
+
+turn off security notification
+![image](https://user-images.githubusercontent.com/43515480/234483588-5eef67fd-0730-491e-8e0c-9410ef730d7c.png)
+![image](https://user-images.githubusercontent.com/43515480/234483794-f249e8a7-4da7-4d0e-94ae-56e725bb628c.png)
+
+Require Sysadmin access for migration<br/>
+Export data time application (Data + Schema) <br/>
+![image](https://user-images.githubusercontent.com/43515480/234484378-4e2f5c92-d98a-465a-9e47-771ba03776b7.png)
+
+Extract data tier applicaiton (only schema) then use below
+![image](https://user-images.githubusercontent.com/43515480/234484533-c4f95a7a-44ee-43f9-84fb-c65f5f31b07c.png)
+![image](https://user-images.githubusercontent.com/43515480/234484869-2b748fae-e02b-42ea-842e-549fcca0db0e.png)
+![image](https://user-images.githubusercontent.com/43515480/234484951-9a58d4c5-95b8-42a4-bad3-5d6c28487827.png)
+![image](https://user-images.githubusercontent.com/43515480/234485085-9f86c14c-c0b9-4e26-9e75-a95f8755a1ed.png)
+![image](https://user-images.githubusercontent.com/43515480/234485117-68838552-9a29-49f4-9ee2-f22bbf602574.png)
+COpy server
+![image](https://user-images.githubusercontent.com/43515480/234485216-bcbaa129-2338-43ca-a12d-47c01ee5cffd.png)
+
+![image](https://user-images.githubusercontent.com/43515480/234485256-4c35b1df-0300-48f6-8128-5e9a62648980.png)
+if not working - may be firewall issue (Open Firewall..) 
+
